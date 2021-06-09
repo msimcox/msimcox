@@ -1,6 +1,9 @@
 Hi, I’m Marshall Simcox (@msimcox)
+<br>
 "All I do is code"
+<br>
 I’m currently learning React with Django.
+<br>
 Reach me at marshallsimcox.com
 
 <!---
