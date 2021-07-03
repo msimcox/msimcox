@@ -1,8 +1,10 @@
 Hi, I’m Marshall Simcox (@msimcox)
 <br>
-"All I do is code"
+Which job did the plastic surgeon apply for?
 <br>
-I’m currently learning React with Django.
+Back end development!
+<br>
+I'm a full-stack developer.
 <br>
 Reach me at marshallsimcox.com
 
