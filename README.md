@@ -1,4 +1,4 @@
-marshallsimcox.com
+<a href="http://marshallsimcox.com">marshallsimcox.com</a>
 
 <!---
 msimcox/msimcox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
